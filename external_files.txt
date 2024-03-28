@@ -1,0 +1,17 @@
+Name
+Mathew
+
+Race
+Human
+
+Class
+Nerd
+
+Health
+14
+
+Armour Class
+10
+
+features
+bored
